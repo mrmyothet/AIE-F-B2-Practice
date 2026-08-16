@@ -217,3 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 notebooks/svm/liblinear/
+
+notebooks/svm/work/model.bin
