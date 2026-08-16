@@ -216,6 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-notebooks/svm/liblinear/
 
-notebooks/svm/work/model.bin
+# Generated SVM tutorial artifacts
+notebooks/svm/liblinear/
+notebooks/svm/work/
+notebooks/svm/**/*.bin
+notebooks/svm/**/*.pkl
+notebooks/svm/**/*.svm
+notebooks/svm/**/*.conll
+notebooks/svm/**/*.pred
+notebooks/svm/**/*.txt
